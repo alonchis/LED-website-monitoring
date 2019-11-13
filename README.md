@@ -15,4 +15,4 @@ change PinsIndex in cmd/flowingLED/main.go to match your GPIO setup.
 [ ] find way to make website monitoring dynamic
 [ ] web gui management site
 [ ] fix healthchecks
- 
+[ ] feature: fix hours of operation (i.e lights off between midnight but turn red in case of downtime)
